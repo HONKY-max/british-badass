@@ -1,2 +1,1 @@
-# british-badass
-Financial Wizard
+# british-badass-Wizard
